@@ -87,6 +87,16 @@ Therefore, in scenarios, the “Production” is an output of the model, while f
 This approach necessitates a reference development when circular economy measures are considered. 
 The circular economy measures affect the top-down and bottom-up inflows independently of each other.
 
+Figure 5 shows this computation step by step: the historic chain, the residual at the base year
+and the bottom-up sub-modules are combined into one result for all sectors.
+
+.. figure:: img/Combined_model_computation.png
+   :class: without-border
+   :alt: Figure 5: Computation of the combined model
+
+   Figure 5: Computation of the combined model
+
+
 
 Code structure
 ------------------------------
